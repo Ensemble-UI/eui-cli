@@ -1,0 +1,26 @@
+{
+  "name": "eui-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ensemble-UI/eui-cli.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Ensemble-UI/eui-cli/issues"
+  },
+  "bin": {
+    "eui": "./index.js"
+  },
+  "homepage": "https://github.com/Ensemble-UI/eui-cli#readme",
+  "dependencies": {
+    "ansi-art": "^1.3.0",
+    "commander": "^12.1.0"
+  }
+}
